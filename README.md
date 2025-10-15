@@ -1,4 +1,5 @@
 # BrainPuzzles
+Try now: https://janguar02.github.io/games/brainpuzzles/index.html
 ## Main Menu
 ![alt text](https://raw.githubusercontent.com/Janguar02/BrainPuzzles/refs/heads/main/Screenshots/Menu_Screen.jpg)
 ## Level
